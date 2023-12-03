@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAMILL", "KAMILL\KAMILL.csproj", "{EB3015E7-EFAA-4ED3-89C4-4FA46A34D442}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3015E7-EFAA-4ED3-89C4-4FA46A34D442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3015E7-EFAA-4ED3-89C4-4FA46A34D442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3015E7-EFAA-4ED3-89C4-4FA46A34D442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3015E7-EFAA-4ED3-89C4-4FA46A34D442}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30C543D6-0EB0-4D18-AB7C-EE10537BB885}
+	EndGlobalSection
+EndGlobal
